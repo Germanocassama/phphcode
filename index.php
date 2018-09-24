@@ -7,7 +7,7 @@
 	
 	echo "Olá Germano";
 
-	echo "olá Mãe";
+	echo "olá Pai";
 
 
 ?>
